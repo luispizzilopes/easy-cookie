@@ -4,7 +4,7 @@
 
 ## Version
 
-npm package 1.0.4
+npm package 1.0.5
 
 ## Features
 
